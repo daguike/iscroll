@@ -1,0 +1,16 @@
+{
+  "name": "daguike_iscroll",
+  "version": "5.1.3",
+  "homepage": "https://github.com/daguike/iscroll",
+  "authors": [
+    "dgk <code@daguike.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
